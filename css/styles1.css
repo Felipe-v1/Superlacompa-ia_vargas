@@ -1,0 +1,37 @@
+.logop {
+    display: flex;
+    height: 150px;
+}
+
+.colornav {
+    background-color: #8edcb9;
+}
+
+.nav-link {
+    color: black;
+}
+
+.banner {
+    justify-content: center;
+    display: flex;
+    height: 320px;
+
+}
+
+.colorh {
+    background-color: #8edcb9;
+    border-radius: 20%;
+}
+.media1,.media2, .media3{
+    display: flex;
+    align-items: center;
+
+}
+.foto-comida{
+    height: 400px;
+}
+
+.perro{
+    height: 100px;
+    border-radius: 100%;
+}
