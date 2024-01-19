@@ -6,23 +6,23 @@
 .colornav {
   background-color: #8edcb9;
 }
-.colornav .nav-link {
+
+.nav-link {
   color: black;
+}
+
+.banner {
+  justify-content: center;
+  display: flex;
+  height: 320px;
 }
 
 .colorh {
   background-color: #8edcb9;
   border-radius: 20%;
 }
-.colorh .banner {
-  justify-content: center;
-  display: flex;
-  height: 320px;
-}
 
-.media1,
-.media2,
-.media3 {
+.media1, .media2, .media3 {
   display: flex;
   align-items: center;
 }
@@ -30,11 +30,6 @@
 .foto-comida {
   display: flex;
   height: 400px;
-}
-.foto-comida .perro {
-  display: flex;
-  height: 100px;
-  border-radius: 100%;
 }
 
 .perro {
@@ -45,4 +40,4 @@
 
 .colorofertas {
   background-color: #8edcb9;
-}/*# sourceMappingURL=styles1.css.map */
+}/*# sourceMappingURL=estilo1.css.map */

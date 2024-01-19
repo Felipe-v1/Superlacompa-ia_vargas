@@ -1,0 +1,54 @@
+.logop {
+    display: flex;
+    height: 150px;
+
+}
+
+.colornav {
+    background-color: #8edcb9;
+    .nav-link {
+        color: black;
+    }
+}
+
+
+
+.colorh {
+    background-color: #8edcb9;
+    border-radius: 20%;
+    .banner {
+        justify-content: center;
+        display: flex;
+        height: 320px;
+        
+    
+    }
+}
+
+.media1,
+.media2,
+.media3 {
+    display: flex;
+    align-items: center;
+
+}
+
+.foto-comida {
+    display: flex;
+    height: 400px;
+    .perro {
+        display: flex;
+        height: 100px;
+        border-radius: 100%;
+    }
+}
+
+.perro {
+    display: flex;
+    height: 100px;
+    border-radius: 100%;
+}
+
+.colorofertas {
+    background-color: #8edcb9;
+}
