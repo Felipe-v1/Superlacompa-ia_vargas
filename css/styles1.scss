@@ -11,11 +11,21 @@
     }
 }
 
-
-
 .colorh {
     background-color: #8edcb9;
     border-radius: 20%;
+    }
+    .colmapa{
+        background-color: black;
+        border-radius: 2rem;
+    }
+    .frontismapa{
+        display: flex;
+        height: 200px;
+        
+    
+    }
+    
     .banner {
         justify-content: center;
         display: flex;
@@ -23,7 +33,7 @@
         
     
     }
-}
+
 
 .media1,
 .media2,
@@ -52,3 +62,19 @@
 .colorofertas {
     background-color: #8edcb9;
 }
+
+.contenedorboton{
+    display: flex;
+    gap: -5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    .botones{
+        background-color: #ff6961;
+        color:white;
+    border-color:black;
+    }
+
+}
+
+
+

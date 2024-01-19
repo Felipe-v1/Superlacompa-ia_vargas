@@ -14,7 +14,18 @@
   background-color: #8edcb9;
   border-radius: 20%;
 }
-.colorh .banner {
+
+.colmapa {
+  background-color: black;
+  border-radius: 2rem;
+}
+
+.frontismapa {
+  display: flex;
+  height: 200px;
+}
+
+.banner {
   justify-content: center;
   display: flex;
   height: 320px;
@@ -45,4 +56,16 @@
 
 .colorofertas {
   background-color: #8edcb9;
+}
+
+.contenedorboton {
+  display: flex;
+  gap: -5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.contenedorboton .botones {
+  background-color: #ff6961;
+  color: white;
+  border-color: black;
 }/*# sourceMappingURL=styles1.css.map */
